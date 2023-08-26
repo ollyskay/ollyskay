@@ -32,12 +32,9 @@
  JobTitle - Full Stack Developer.
  Specialization - Building full-fledged web applications.
  Interests - AI, writing & problem-solving.
- Hobbies - Climbing, reading, triathlons & playing music.
- Education - BSc CompSci, Lancaster University.
+ Hobbies - Playing Chess, reading, & playing music
  Approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
- My stength - Resolute.
- My weakness - Shy.
- Birthday - 8th of December.
+ Birthday - 8th of February.
 
 ```
 
